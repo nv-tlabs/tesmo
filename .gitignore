@@ -1,0 +1,8 @@
+ckpts
+dataset_tar
+.vscode
+*.pyc
+*_tmp.*
+env.sh
+transform/
+glove/
